@@ -2,9 +2,7 @@
 
 Sou formado em Publicidade e Propaganda pela Unisinos, curioso e com sede de aprendizado!
 
-Hoje, atuo como Gerente de Marketing no [ZeussApp](https://www.instagram.com/zeussapp/) e na [Tarkuss Brasil](https://www.instagram.com/tarkussbrasil/). 
-
-Atualmente estou em busca de conhecimento para migrar para a área de desenvolvimento de software. 
+Hoje, atuo como Desenvolvedor Full Stack na [Tarkuss Brasil](https://www.instagram.com/tarkussbrasil/).
 
 📫 Você me encontra em:\
 [Instagram](https://www.instagram.com/matheusantns/)\
