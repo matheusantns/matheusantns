@@ -1,10 +1,10 @@
-## Oi, eu sou o Matheus! 👋
+## Hi, I'm Matheus! 👋
 
-Sou formado em Publicidade e Propaganda pela Unisinos, curioso e com sede de aprendizado!
+I have a degree in Advertising from Unisinos, curious and thirsty for learning!
 
-Hoje, atuo como Desenvolvedor Full Stack na [Tarkuss Brasil](https://www.instagram.com/tarkussbrasil/).
+Nowadays, I work as Full Stack Developer at [Tarkuss Brasil](https://www.instagram.com/tarkussbrasil/).
 
-📫 Você me encontra em:\
+📫 Find me online:\
 [Instagram](https://www.instagram.com/matheusantns/)\
 [Linkedin](https://www.linkedin.com/in/matheus-antunes-b42687129/)\
 [E-mail](mailto:mta.santos@gmail.com)
